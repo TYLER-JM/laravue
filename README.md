@@ -1,5 +1,6 @@
 ## Laravue
 
-working with vue, inside of Laravel
+Fantasy sports tracking app.
 
-following [this tutorial](https://vuejsdevelopers.com/2018/02/05/vue-laravel-crud/?utm_source=twitter-vjd&utm_medium=post&utm_campaign=crd) from *vuejsdevelopers*
+1. laravue.test
+2. `php artisan db:seed`
